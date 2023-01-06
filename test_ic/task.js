@@ -35,4 +35,4 @@ var ic = {
 };
 
 /*タイムラインの設定*/
-var timeline = [fullscreen,ic];
+var timeline = [ic];
